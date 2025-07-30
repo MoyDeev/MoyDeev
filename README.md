@@ -4,10 +4,10 @@
 
 - Me especialicé en el desarrollo de Aplicaciones Móviles en la Nube.
 - Principalmente me enfoco en el desarrollo backend con SpringBoot, .Net, PHP y Flutter.
-- También he participado en proyectos en frontend con Angular y React.
+- También he participado en proyectos participando en frontend con Angular y React.
 - Disponible para trabajos de manera freelance.
 - En mis tiempos libres me gusta tatuar.
-- Puedes ver todos los proyectos en los que he participado en mi portafolio web: 
+- Puedes ver todos los proyectos en los que he participado en mi portafolio web: <link>
 
 </br>
 
