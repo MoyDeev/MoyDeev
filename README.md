@@ -9,8 +9,6 @@
 - En mis tiempos libres me gusta tatuar.
 - Puedes ver todos los proyectos en los que he participado en mi portafolio web: <link>
 
-</br>
-
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
 <h4> Languages </h4>
