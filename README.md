@@ -2,7 +2,7 @@
 
 ¡Bienvenido! Me llamo Moises Samuel, actualmente me encuentro en mi ultimo semestre y por graduarme de el Instituto Tecnológico Superior de Teziutlán como Ingeniero en Sistemas Computacionales.
 
-- Me especialicé en el desarrollo de Aplicaciones Móviles en la Nube.
+- Me especialicé en el desarrollo de Aplicaciones en la Nube.
 - Principalmente me enfoco en el desarrollo backend con SpringBoot, .Net, PHP y Flutter.
 - También he participado en proyectos participando en frontend con Angular y React.
 - Disponible para trabajos de manera freelance.
