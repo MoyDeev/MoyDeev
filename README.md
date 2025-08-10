@@ -6,8 +6,7 @@
 - Principalmente me enfoco en el desarrollo backend con SpringBoot, .Net, PHP y Flutter.
 - También he participado en proyectos participando en frontend con Angular y React.
 - Disponible para trabajos freelance.
-- En mis tiempos libres me gusta tatuar.
-- Puedes ver todos los proyectos en los que he participado en mi portafolio web: <link>
+- Uno de mis hobbies nuevos y en el que me paso mis tiempos libres es el mundo del tattoo.
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
