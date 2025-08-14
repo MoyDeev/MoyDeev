@@ -2,11 +2,15 @@
 
 ¡Bienvenido! Me llamo Moises Samuel, actualmente me encuentro en mi ultimo semestre y por graduarme de el Instituto Tecnológico Superior de Teziutlán como Ingeniero en Sistemas Computacionales.
 
-- Me especialicé en el desarrollo de Aplicaciones en la Nube.
-- Principalmente me enfoco en el desarrollo backend con SpringBoot, .Net, PHP y Flutter.
-- También he participado en proyectos participando en frontend con Angular y React.
-- Disponible para trabajos freelance.
-- Uno de mis hobbies nuevos y en el que me paso mis tiempos libres es el mundo del tattoo.
+- Especializado en desarrollo de aplicaciones en la nube.
+
+- Enfoque principal en desarrollo backend con Spring Boot, .NET, PHP y Flutter.
+
+- Experiencia también en frontend con Angular y React.
+
+- Disponible para proyectos freelance.
+
+- En mi tiempo libre me apasiona el mundo del tattoo.
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
