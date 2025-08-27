@@ -4,8 +4,10 @@
 
 - Especializado en desarrollo de aplicaciones en la nube.
 
-- Enfoque principal en desarrollo backend con Spring Boot, .NET, PHP y Flutter.
+- Enfoque principal en desarrollo backend con Spring Boot, .NET y PHP.
 
+- Algo de experiencia en Flutter con apliaciones moviles.
+  
 - Experiencia también en frontend con Angular y React.
 
 - Disponible para proyectos freelance.
