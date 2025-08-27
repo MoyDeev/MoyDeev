@@ -11,8 +11,10 @@
 - Experiencia también en frontend con Angular y React.
 
 - Disponible para proyectos freelance.
-
+  
 - En mi tiempo libre me apasiona el mundo del tattoo.
+
+- Si quieres saber más de mi o de mis proyectos, ingresa a mi pagina web: https://moydeev.netlify.app/
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 <h4> Main Languages </h4>
