@@ -4,7 +4,7 @@
 
 - Especializado en desarrollo de aplicaciones en la nube.
 
-- Enfoque principal en desarrollo backend con Java, C# y PHP.
+- Enfoque principal en desarrollo backend con SpringBoot, .NET y aprendiendo más sobre Laravel.
 
 - Algo de experiencia en Flutter con apliaciones moviles.
   
