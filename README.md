@@ -2,9 +2,9 @@
 
 ¡Hola! Mi nombre es Moises Samuel y actualmente curso mi último semestre en el Instituto Tecnológico Superior de Teziutlán, a punto de graduarme como Ingeniero en Sistemas Computacionales.
 
-- Especializado en desarrollo de aplicaciones en la nube.
+💻 Especialización en desarrollo de aplicaciones en la nube.
 
-- Enfoque principal en desarrollo backend con SpringBoot, .NET y aprendiendo más sobre Laravel.
+⚙️ Enfoque principal en desarrollo backend con Spring Boot y .NET, ampliando conocimientos en Laravel.
 
 - Algo de experiencia en Flutter con apliaciones moviles.
   
