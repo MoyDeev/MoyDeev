@@ -1,6 +1,6 @@
 # Hola, soy MoyDeev 👋
 
-¡Bienvenido! Me llamo Moises Samuel, actualmente me encuentro en mi ultimo semestre y por graduarme de el Instituto Tecnológico Superior de Teziutlán como Ingeniero en Sistemas Computacionales.
+¡Hola! Mi nombre es Moises Samuel y actualmente curso mi último semestre en el Instituto Tecnológico Superior de Teziutlán, a punto de graduarme como Ingeniero en Sistemas Computacionales.
 
 - Especializado en desarrollo de aplicaciones en la nube.
 
