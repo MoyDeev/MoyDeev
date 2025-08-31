@@ -6,13 +6,13 @@
 
 ⚙️ Enfoque principal en desarrollo backend con Spring Boot y .NET, ampliando conocimientos en Laravel.
 
-- Algo de experiencia en Flutter con apliaciones moviles.
-  
-- Experiencia también en frontend con Angular y React.
+📱 Experiencia en Flutter para aplicaciones móviles.
 
-- Disponible para proyectos freelance.
-  
-- En mi tiempo libre me apasiona el mundo del tatuaje.
+🌐 Conocimientos en frontend con Angular y React.
+
+🤝 Disponible para proyectos freelance.
+
+🎨 Apasionado por el mundo del tatuaje en mi tiempo libre.
 
 - Si quieres saber más de mi o de mis proyectos, ingresa a mi pagina web: https://moydeev.netlify.app/
 
