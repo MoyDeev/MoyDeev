@@ -12,7 +12,7 @@
 
 - Disponible para proyectos freelance.
   
-- En mi tiempo libre me apasiona el mundo del tattoo.
+- En mi tiempo libre me apasiona el mundo del tatuaje.
 
 - Si quieres saber más de mi o de mis proyectos, ingresa a mi pagina web: https://moydeev.netlify.app/
 
