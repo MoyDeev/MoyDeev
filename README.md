@@ -12,7 +12,7 @@
 
 🤝 Disponible para proyectos freelance.
 
-🎨 Apasionado por el mundo del tatuaje en mi tiempo libre.
+🎨 Apasionado por el mundo del tatuaje.
 
 Si deseas conocer más sobre mí y mis proyectos, te invito a visitar mi página web:
 👉 [moydeev.netlify.app](https://moydeev.netlify.app/)
