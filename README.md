@@ -1,8 +1,6 @@
 # Hola, soy MoyDeev 👋
 
-¡Hola! Mi nombre es Moises Samuel y actualmente curso mi último semestre en el Instituto Tecnológico Superior de Teziutlán, a punto de graduarme como Ingeniero en Sistemas Computacionales.
-
-💻 Especialización en desarrollo de aplicaciones en la nube.
+¡Hola! Mi nombre es Moises Samuel y actualmente curso mi último semestre en el Instituto Tecnológico Superior de Teziutlán, a punto de graduarme como Ingeniero en Sistemas Computacionales con especialización en el desarrollo de aplicaciones en la nube.
 
 ⚙️ Enfoque principal en desarrollo backend con Spring Boot y .NET, ampliando conocimientos en Laravel.
 
