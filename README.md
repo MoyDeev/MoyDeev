@@ -70,8 +70,6 @@ Si deseas conocer más sobre mí y mis proyectos, te invito a visitar mi página
 <a href="https://www.linkedin.com/in/moydeev" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-
-
 <br>
 
 -----
