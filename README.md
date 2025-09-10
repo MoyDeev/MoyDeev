@@ -15,7 +15,8 @@
 Para conocer más sobre mis proyectos y experiencia, visita mi portafolio en línea:
 👉 moydeev.netlify.app
 
-Habilidades / Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
+Habilidades / Skills 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
 Lenguajes Principales / Main Languages
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
