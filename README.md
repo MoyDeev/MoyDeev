@@ -12,8 +12,8 @@
 
 🎨 Apasionado por el mundo del tatuaje.
 
-Si deseas conocer más sobre mí y mis proyectos, te invito a visitar mi página web:
-👉 [moydeev.netlify.app](https://moydeev.netlify.app/)
+Para conocer más sobre mis proyectos y experiencia, visita mi portafolio en línea:
+👉 moydeev.netlify.app
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 <h4> Main Languages </h4>
