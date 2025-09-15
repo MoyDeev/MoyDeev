@@ -89,7 +89,7 @@ Para conocer más sobre mis proyectos y experiencia, visita mi portafolio en lí
 </a>
 
 <a>
-<img src="![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96)"/>
+<img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96" alt="linkedin" />
 </a>
 
 
