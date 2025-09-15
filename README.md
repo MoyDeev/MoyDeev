@@ -88,4 +88,6 @@ Para conocer más sobre mis proyectos y experiencia, visita mi portafolio en lí
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 
+
+
 <br>
