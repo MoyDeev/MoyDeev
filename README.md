@@ -1,6 +1,6 @@
 # Hola, soy MoyDeev 👋
 
-¡Hola! Soy Moisés Samuel, un futuro ingeniero en sistemas computacionales a punto de graduarme del Instituto Tecnológico Superior de Teziutlán. Durante mi último semestre, me he especializado en el desarrollo de aplicaciones en la nube, con un enfoque particular en backend.
+¡Hola! Soy Moisés Samuel, un futuro ingeniero en sistemas computacionales a punto de graduarme del Instituto Tecnológico Superior de Teziutlán (TecNM). Durante mi último semestre, me he especializado en el desarrollo de aplicaciones en la nube, con un enfoque particular en backend.
 
 ⚙️ Enfoque principal en desarrollo backend con Spring Boot y .NET, ampliando conocimientos en Laravel.
 
