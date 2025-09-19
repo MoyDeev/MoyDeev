@@ -77,13 +77,13 @@ Para conocer más sobre mis proyectos y experiencia, visita mi portafolio en lí
 ## Contactame aquí: <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
 <span>
-<a href="https://instagram.com/moydeev"  style="margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+<a href="https://instagram.com/moydeev">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
 </span>
 
 <span>
 <a href="https://www.linkedin.com/in/moydeev">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96" alt="linkedin" height="30" width="40" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96" alt="linkedin" height="30" width="40" />
 </a>
 <span>
