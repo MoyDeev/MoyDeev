@@ -4,7 +4,7 @@
 
 ⚙️ Enfoque principal en desarrollo backend con Spring Boot y .NET, ampliando conocimientos en Laravel.
 
-📱 Experiencia en Flutter para aplicaciones móviles.
+📱 Experiencia en Flutter para aplicaciones móviles Android.
 
 🌐 Conocimientos en frontend con Angular y React.
 
