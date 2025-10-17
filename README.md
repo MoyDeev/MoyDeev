@@ -74,7 +74,7 @@ Para conocer más sobre mis proyectos y experiencia, visita mi portafolio:
   
 </span>
 
-## Contactame aquí: <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+## Contactame aquí:
 
 <div>
 <a href="https://instagram.com/moydeev">
