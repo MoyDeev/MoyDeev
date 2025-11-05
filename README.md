@@ -3,9 +3,7 @@
 ¡Hola! Soy Moy, estudio Ingenieria en Sistemas Computacionales, estoy a punto de graduarme del Instituto Tecnológico Superior de Teziutlán (TecNM). 
 Durante mi último semestre, me he especializado en el desarrollo de aplicaciones en la nube, con un enfoque Full-Stack. También, he participado en proyectos fortaleciendo mis hablidades en Full-Stack, realmente me interesa aprender más y mejorar en cada aspecto del desarrollo de software. 
 
-📱 Experiencia en Flutter para aplicaciones móviles Android.
-
-🌐 Conocimientos en frontend con Angular y React.
+📱 Experiencia en aplicaciones móviles Android.
 
 🤝 Disponible para proyectos freelance.
 
