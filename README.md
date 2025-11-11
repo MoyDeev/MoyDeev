@@ -1,7 +1,5 @@
 # Hi, I'm MoyDeev👋
 
-<div>
-
 Hello! I'm Moy, a Computer Systems Engineering student about to graduate from Instituto Tecnológico Superior de Teziutlán (TecNM).
 During my final semester, I've specialized in cloud application development with a Full-Stack focus. I've also participated in various projects, strengthening my Full-Stack skills. I'm genuinely interested in learning more and improving in every aspect of software development.
 
@@ -51,21 +49,23 @@ Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" wid
 </p>
 
 # Connect me
-
-<div class="row" style="display: flex; gap: 15px; text-decoration: none;">
-  
-  <a href="https://instagram.com/moydeev">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/moydeev">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96" alt="linkedin" height="30" width="40">
-  </a>
-  
+<div>
+  <div class="row" style="gap:15px;">
+      <a href="https://instagram.com/moydeev">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40">
+      </a>
+    <a>
+      <p>
+      </p>
+    </a>
+      <a href="https://www.linkedin.com/in/moydeev">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96" alt="linkedin" height="30" width="40">
+      </a>
+  </div>
 </div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=moydeev&label=Profile%20views&color=0e75b6&style=flat" alt="moydeev" />
 </p>
 
-</div>
