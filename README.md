@@ -1,5 +1,7 @@
 # Hi, I'm MoyDeev👋
 
+<div>
+
 Hello! I'm Moy, a Computer Systems Engineering student about to graduate from Instituto Tecnológico Superior de Teziutlán (TecNM).
 During my final semester, I've specialized in cloud application development with a Full-Stack focus. I've also participated in various projects, strengthening my Full-Stack skills. I'm genuinely interested in learning more and improving in every aspect of software development.
 
@@ -11,6 +13,8 @@ During my final semester, I've specialized in cloud application development with
 
 To learn more about my projects and experience, visit my portfolio:
 👉 moydeev.netlify.app 👈
+
+#
 
 Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Languages
 <p>
@@ -46,9 +50,9 @@ Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" wid
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white">
 </p>
 
-Connect with me:
+# Connect me
 
-<div class="row" style="display: flex; gap: 15px;">
+<div class="row" style="display: flex; gap: 15px; text-decoration: none;">
   
   <a href="https://instagram.com/moydeev">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40">
@@ -57,8 +61,11 @@ Connect with me:
   <a href="https://www.linkedin.com/in/moydeev">
     <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96" alt="linkedin" height="30" width="40">
   </a>
-</dic>
+  
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=moydeev&label=Profile%20views&color=0e75b6&style=flat" alt="moydeev" />
 </p>
+
+</div>
