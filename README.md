@@ -56,7 +56,7 @@ Languages
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white">
 </p>
 
-# Connect me
+# Contact
 <div>
   <div class="row" style="gap:15px;">
       <a href="https://instagram.com/moydeev">
