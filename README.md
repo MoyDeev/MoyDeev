@@ -1,6 +1,6 @@
 # Hi, I'm MoyDeev👋
 
-Hello! I'm Moy, a Computer Systems Engineering graduate from Instituto Tecnológico Superior de Teziutlán (TecNM). During my studies, I specialized in cloud application development with a Full-Stack focus. I have also participated in various projects, strengthening my Full-Stack skills. I'm genuinely interested in learning more and improving in every aspect of software development.
+I´m Computer Systems Engineering graduate from Instituto Tecnológico Superior de Teziutlán (TecNM). During my studies, I specialized in cloud application development with a Full-Stack focus. I have also participated in various projects, strengthening my Full-Stack skills. I'm genuinely interested in learning more and improving in every aspect of software development.
 
 📱 Experience in Android mobile applications
 
