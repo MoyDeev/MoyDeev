@@ -14,19 +14,20 @@
   <table align="center">
     <tr>
       <td width="20%" align="center">
-        <p>Aquí puedes poner</p>
-        <p>tus redes sociales</p>
-        <p>o logos.</p>
+        <h1>texto</h1>
       </td>
 
       <td width="60%" align="center">
-        <img width="498" height="286" alt="GIF animado" src="https://github.com/user-attachments/assets/687809ed-038f-4167-a765-1e7819c4e0b9" />
+        <img width="498" height="286" alt="GIF" src="https://github.com/user-attachments/assets/687809ed-038f-4167a765-1e7819c4e0b9" />
       </td>
 
       <td width="20%" align="center">
-        <p>Aquí puedes poner</p>
-        <p>tecnologías que</p>
-        <p>usas (Skills).</p>
+        <h1>Texto</h1>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3" align="center">
+        <h1>Aqui va una fila con iconos de las redes sociales</h1> 
       </td>
     </tr>
   </table>
