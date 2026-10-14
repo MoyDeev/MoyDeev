@@ -9,7 +9,7 @@
   <br> 
   <table align="center">
     <tr>
-      <td>
+      <td colspan=3 align="center">
         <h1>Hi, I'm MoyDeev</h1>
       </td>
     </tr>
