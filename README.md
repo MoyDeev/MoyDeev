@@ -1,16 +1,16 @@
 <div align="center">
-  
-  <h3>
-    Developer Full-Stack Jr
-  </h3>
-  <h4>
-    Always trying to learn more.
-  </h4>
-  <br> 
   <table align="center">
     <tr>
       <td colspan=3 align="center">
-        <h1>Hi, I'm MoyDeev</h1>
+        <h2>Hi, I'm MoyDeev</h2>
+      </td>
+      <td>
+        <h3>
+          Developer Full-Stack Jr
+        </h3>
+        <h4>
+          Always trying to learn more.
+        </h4>
       </td>
     </tr>
     <tr>
