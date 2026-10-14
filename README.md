@@ -2,7 +2,7 @@
   <table align="center">
     <tr>
       <td colspan="3" align="center">
-        <h1>Hi, i'm MoyDeev</h1>
+        <h1>Hi, I'm MoyDeev</h1>
       </td>
     </tr>
     <tr>
@@ -13,13 +13,24 @@
     </tr>
     <tr>
       <td align="center">
-        <p>texto</p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" />
+        <br><sub><b>C#</b></sub>
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48" />
+        <br><sub><b>Python</b></sub>
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" />
+        <br><sub><b>TypeScript</b></sub>
       </td>
       <td align="center">
         <img width="560" alt="GIF" src="https://github.com/user-attachments/assets/4b959e2c-6ecb-44c3-89de-82e18887eafe" />
       </td>
       <td align="center">
-        <p>Texto</p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="48" height="48" />
+        <br><sub><b>Angular</b></sub>
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" />
+        <br><sub><b>MySQL</b></sub>
       </td>
     </tr>
     <tr>
