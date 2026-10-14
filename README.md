@@ -4,6 +4,8 @@
       <td colspan=3 align="center">
         <h2>Hi, I'm MoyDeev</h2>
       </td>
+    </tr>
+    <tr>
       <td>
         <h3>
           Developer Full-Stack Jr
