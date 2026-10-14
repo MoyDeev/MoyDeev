@@ -18,7 +18,7 @@
       </td>
 
       <td width="60%" align="center">
-        <img width="498" height="286" alt="GIF" src="https://github.com/user-attachments/assets/687809ed-038f-4167a765-1e7819c4e0b9" />
+        <img width="498" height="286" alt="GIF" src="https://github.com/user-attachments/assets/4b959e2c-6ecb-44c3-89de-82e18887eafe"/>
       </td>
 
       <td width="20%" align="center">
