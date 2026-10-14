@@ -2,7 +2,7 @@
   <table align="center">
     <tr>
       <td colspan="3" align="center">
-        <h1>Hi, I'm MoyDeev</h1>
+        <h1>Hi, i'm MoyDeev</h1>
       </td>
     </tr>
     <tr>
