@@ -1,12 +1,12 @@
 <div align="center">
   <table align="center">
     <tr>
-      <td colspan=2 align="center">
+      <td colspan="3" align="center">
         <h2>Hi, I'm MoyDeev</h2>
       </td>
     </tr>
     <tr>
-      <td colspan=3 align="center">
+      <td colspan="3" align="center">
         <h3>
           Developer Full-Stack Jr
         </h3>
