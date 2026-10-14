@@ -1,10 +1,8 @@
 <div align="center">
   <table align="center">
     <tr>
-      <td colspan="3" align="center">
         <td colspan="3" align="center">
         <img src="assets/name-pill.svg" alt="Hi, I'm MoyDeev" height="60" />
-      </td>
       </td>
     </tr>
     <tr>
