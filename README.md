@@ -1,9 +1,6 @@
-<div styles="background-color:green;">
-  <div>
-    <h1>
-      Hi, im MoyDeev
-    </h1>
-  </div>
-  <img width="498" height="286" alt="087bfb3a72c8f5af8a14c7b20352dafd" src="https://github.com/user-attachments/assets/687809ed-038f-4167-    a765-1e7819c4e0b9" />
+<div align="center">
+  <h1>
+    Hi, I'm MoyDeev
+  </h1>
+  <img width="498" height="286" alt="GIF animado" src="https://github.com/user-attachments/assets/687809ed-038f-4167-a765-1e7819c4e0b9" />
 </div>
-  
