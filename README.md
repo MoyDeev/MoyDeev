@@ -1,7 +1,5 @@
 <div align="center">
-  <h1>
-    Hi, I'm MoyDeev
-  </h1>
+  
   <h3>
     Developer Full-Stack Jr
   </h3>
@@ -10,6 +8,9 @@
   </h4>
   <br> 
   <table align="center">
+    <tr>
+      <h1>Hi, I'm MoyDeev</h1>
+    </tr>
     <tr>
       <td width="20%" align="center">
         <p>texto</p>
