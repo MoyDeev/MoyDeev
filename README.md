@@ -9,7 +9,9 @@
   <br> 
   <table align="center">
     <tr>
-      <h1>Hi, I'm MoyDeev</h1>
+      <td>
+        <h1>Hi, I'm MoyDeev</h1>
+      </td>
     </tr>
     <tr>
       <td width="20%" align="center">
