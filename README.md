@@ -8,7 +8,7 @@
     <tr>
       <td colspan="3" align="center">
         <h3>Developer Full-Stack Jr</h3>
-        <h4>Always trying to learn more.</h4>
+        <h5>Always trying to learn more.</h5>
       </td>
     </tr>
     <tr>
