@@ -2,7 +2,9 @@
   <table align="center">
     <tr>
       <td colspan="3" align="center">
-        <h1>Hi, I'm MoyDeev</h1>
+        <td colspan="3" align="center">
+        <img src="assets/name-pill.svg" alt="Hi, I'm MoyDeev" height="60" />
+      </td>
       </td>
     </tr>
     <tr>
