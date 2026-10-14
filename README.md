@@ -14,13 +14,13 @@
   <table align="center">
     <tr>
       <td width="20%" align="center">
-        <h1>texto</h1>
+        <p>texto</p>
       </td>
-
-      <td width="60%" align="center">
+<br>
+  <td width="60%" align="center">
         <img width="498" height="286" alt="GIF" src="https://github.com/user-attachments/assets/4b959e2c-6ecb-44c3-89de-82e18887eafe"/>
       </td>
-
+<br>
       <td width="20%" align="center">
         <h1>Texto</h1>
       </td>
