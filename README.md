@@ -5,24 +5,24 @@
         <h1>Hi, I'm MoyDeev</h1>
       </td>
     </tr>
-    <tr height="30%">
+    <tr>
       <td colspan="3" align="center">
         <h4>Developer Full-Stack Jr</h4>
         <h5>Always trying to learn more.</h5>
       </td>
     </tr>
     <tr>
-      <td width="25%" align="center">
+      <td align="center">
         <p>texto</p>
       </td>
-      <td width="50%" align="center">
-        <img width="400" height="280" alt="GIF" src="https://github.com/user-attachments/assets/4b959e2c-6ecb-44c3-89de-82e18887eafe" />
+      <td align="center">
+        <img width="560" alt="GIF" src="https://github.com/user-attachments/assets/4b959e2c-6ecb-44c3-89de-82e18887eafe" />
       </td>
-      <td width="25%" align="center">
+      <td align="center">
         <p>Texto</p>
       </td>
     </tr>
-        <tr>
+    <tr>
       <td colspan="3" align="center">
         <a href="https://instagram.com/moydeev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/ios/50/ffffff/instagram-new--v1.png"><source media="(prefers-color-scheme: light)" srcset="https://img.icons8.com/ios/50/000000/instagram-new--v1.png"><img src="https://img.icons8.com/ios/50/000000/instagram-new--v1.png" alt="Instagram" width="32" height="32" align="absmiddle" /></picture></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/moydeev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/ios/50/ffffff/linkedin.png"><source media="(prefers-color-scheme: light)" srcset="https://img.icons8.com/ios/50/000000/linkedin.png"><img src="https://img.icons8.com/ios/50/000000/linkedin.png" alt="LinkedIn" width="32" height="32" align="absmiddle" /></picture></a>
       </td>
